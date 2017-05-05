@@ -7,4 +7,5 @@ void main()
   c=a+b;
   printf("value of c is %d",c);
   printf("hello");
+  printf("kokokooooooy");
 }
